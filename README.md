@@ -1,2 +1,2 @@
 # TecnologiasTI
-Repository Clasees TecnlogiasTI
+Repository Classes TecnlogiasTI
